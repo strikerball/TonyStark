@@ -1,0 +1,13 @@
+{
+    "firstName": "Tony",
+    "lastName": "Stark",
+    "preferredName": "Iron Man",
+    "email": "IronMan@lewisu.edu",
+    "phoneNumber": "800-iron-man",
+    "city": "New York",
+    "state": "NY",
+    "zip": "07101",
+    "lat": "40.730610",
+    "lng": "-73.935242",
+    "favoriteHobby": "boosting"
+}
